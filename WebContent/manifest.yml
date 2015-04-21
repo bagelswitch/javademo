@@ -5,7 +5,5 @@ applications:
   disk: 4096M
   instances: 2 
   host: javademo
-  domain: integration.wbx2.com
   path: .
   buildpack: git://github.com/bagelswitch/java-8-buildpack
-
