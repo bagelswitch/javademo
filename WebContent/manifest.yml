@@ -3,7 +3,6 @@ applications:
 - name: javademo
   memory: 2048M
   disk: 4096M
-  instances: 2 
   host: javademo
   path: .
   buildpack: git://github.com/bagelswitch/java-8-buildpack
